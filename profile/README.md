@@ -1,3 +1,10 @@
+<p align="center">
+	<img width="200" alt="LokaTrack logo" src="../assets/lokatrack.png">
+</p>
+<p align="center">
+    <em><strong>Application Based Tracking Deliveries and OCR Reading System</strong></em>
+</p>
+
 ## Introduction
 
 Welcome everyone to the LokaTrack repository, an application for tracking deliveries using OCR and GPS. This organization is where we store our application code and its documentation.
